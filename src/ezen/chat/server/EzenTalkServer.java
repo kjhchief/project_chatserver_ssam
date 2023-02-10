@@ -6,6 +6,8 @@ import java.util.Scanner;
 public class EzenTalkServer {
 
 	public static void main(String[] args) {
+		System.out.println("git web test");
+
 		try {
 			ChatServer chatServer = new ChatServer();
 			// 서버 구동
