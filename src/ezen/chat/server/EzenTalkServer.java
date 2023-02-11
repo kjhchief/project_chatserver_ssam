@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class EzenTalkServer {
 
 	public static void main(String[] args) {
+		// 웹에서 로컬로 보내보자
 		try {
 			ChatServer chatServer = new ChatServer();
 			// 서버 구동
