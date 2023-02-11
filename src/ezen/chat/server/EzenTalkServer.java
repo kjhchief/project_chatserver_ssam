@@ -6,10 +6,6 @@ import java.util.Scanner;
 public class EzenTalkServer {
 
 	public static void main(String[] args) {
-		System.out.println("git local");
-		System.out.println("git local");
-		System.out.println("git local");
-		System.out.println("git local");
 		try {
 			ChatServer chatServer = new ChatServer();
 			// 서버 구동
